@@ -13,5 +13,10 @@ These files are drawings, generally ERD's, and will be named accordinly
   * Changes: Null
 * ERD-Submission-2.drawio - This is my second generation of the ERD
   * Changes: 
-  * Removed Care and Doctor table.
-  * Made Staff Table (Care + Doctor together)
+  * Removed **Care** and **Doctor** table.
+  * Made **Staff** Table (Care + Doctor together)
+* ERD-Submission-3 - Third Generation of the ERD
+ * Changes
+ * Moved **Contactor** to connect to **Staff** table due to the *Worker* definition
+ * Renamed *Specialization* to *Title*
+ * Relinked ID's to Foreign Keys in **LOG** table
