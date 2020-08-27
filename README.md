@@ -33,8 +33,8 @@ DRAWIO Files
 These files are drawings of the ERD's and are named Accordinly.
 
 * ERD - Make Tables
- * Title of ERD is a given - Just making the tables with no connections
+  * Title of ERD is a given - Just making the tables with no connections
 * ERD - Link Tables
- * Title of ERD is a given - Linking the ERD's with correct multiplicty
+  * Title of ERD is a given - Linking the ERD's with correct multiplicty
 
 -------
