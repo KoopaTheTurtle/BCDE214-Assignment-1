@@ -20,3 +20,21 @@ These files are drawings, generally ERD's, and will be named accordinly
  * Moved **Contactor** to connect to **Staff** table due to the *Worker* definition
  * Renamed *Specialization* to *Title*
  * Relinked ID's to Foreign Keys in **LOG** table
+
+-------
+
+The Above Contents has been **SCRAPPED**. This is no longer in use due to not meeting the specs given :(
+
+-------
+
+Contents:
+
+DRAWIO Files
+These files are drawings of the ERD's and are named Accordinly.
+
+* ERD - Make Tables
+ * Title of ERD is a given - Just making the tables with no connections
+* ERD - Link Tables
+ * Title of ERD is a given - Linking the ERD's with correct multiplicty
+
+-------
